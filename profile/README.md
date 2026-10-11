@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/osverify-dark.svg">
-    <img alt="OSVerify" src="assets/osverify-light.svg" width="380">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/osverify-dark.png">
+    <img alt="OSVerify" src="assets/osverify-light.png" width="420">
   </picture>
 </p>
 
