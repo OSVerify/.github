@@ -7,6 +7,11 @@
 
 <p align="center"><b>One-sided verification under limited expert review</b></p>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.18089">Paper (arXiv)</a> ·
+  <a href="https://osverify.github.io">Website</a>
+</p>
+
 AI has become increasingly helpful in scientific discovery, yet problems without reliable
 automated evaluation still depend on human expert review, and candidate generation now
 scales far beyond the review capacity available. We study verification under limited
@@ -31,4 +36,3 @@ it has helped resolve open conjectures whose proofs were confirmed by experts.
   research papers, with an agent skill.
 - [Rethlas-OSV](https://github.com/OSVerify/Rethlas-OSV): Rethlas proof generation
   reviewed by OSVerify, with a desktop app (beta).
-- [Website](https://osverify.github.io)
